@@ -2,6 +2,10 @@ The main objective of this project is to simulate and analyze the behavior of cl
 
 This simulator is built with an intuitive user interface to make it suitable for both academic learning and experimental analysis.
 
+This project is a simulation of OS process scheduling techniques, implemented with key DSA structures like Queues, LinkedLists, and Comparators. It covers CPU Scheduling Algorithms (RR, Priority, SJF, SRTF), Process Handling, and IO Burst Simulation. It allowed me to practically apply OS concepts along with core Java and DSA.”
+
+
+
  ##Key Features
  1. Job Stream Generator:
 Randomized, configurable job stream generator allowing fine-grained control over:
@@ -81,5 +85,7 @@ Programming Language: Java
 
 User Interface: JavaFX or Swing (depending on actual codebase)
 
-Visualization & Styling: Minimal CSS (for UI tuning)
+explains the concept of operating System ,  process managment and cover funadamental of Data Structure and algorithms
+Also incudes the concept like Multi Threading and Multi programming
+
 
